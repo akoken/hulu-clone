@@ -20,7 +20,7 @@ function Header() {
             <HeaderItem title="SEARCH" Icon={SearchIcon} />
             <HeaderItem title="ACCOUNT" Icon={UserIcon} />
         </div>
-        <Image className="object-contain" src="https://raw.githubusercontent.com/akoken/hulu-clone/main/assets/images/hulu-white.png?token=GHSAT0AAAAAABK5HFRRUDA3HTGZXBTUZXK2YYCM5AA" width={200} height={100}/>
+        <Image className="object-contain" src="https://raw.githubusercontent.com/akoken/hulu-clone/main/assets/images/hulu-white.png" width={200} height={100}/>
     </header>
   );
 }
